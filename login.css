@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(flower\ \(2\).jpg) no-repeat;
+  background: URL(wallpaper.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, .2);
